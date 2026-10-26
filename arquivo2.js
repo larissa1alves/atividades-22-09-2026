@@ -10,3 +10,6 @@ if(verificacao==0){
 
 }
 alert(ehPar())
+
+
+//eu achei esse mais ou menos, ele me explicando tava facial, acho que teria só um poco de dificuldade fazando sozinha 

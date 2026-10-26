@@ -17,3 +17,6 @@ function avaliarAluno(aluno) {
         return "Reprovado";
     }
 }
+
+
+//ele  me explicando parece facial, mesmo assim eu tive bastante dificuldade, achei essa bem dificil

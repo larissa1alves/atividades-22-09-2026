@@ -15,7 +15,7 @@ console.log(processarVenda(101))
 
 
 
-
+//entendi mais ou menos essa, acho que de início eu teria dificuldade pra fazer uma parecida mais eu conseguiria 
 
 
 

@@ -3,4 +3,4 @@ function celsiusParaFahrenheit(C){
     return F
 }
 
-
+//muito facial essa 

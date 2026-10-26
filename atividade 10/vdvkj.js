@@ -33,3 +33,7 @@ function executarAnalise() {
 }
 
 executarAnalise();
+
+
+//essa eu achei impossivel, muito complexa
+

@@ -10,4 +10,4 @@ function  calcularIMC (kg,m){
 }
     }
 
-//essa  questao eu fiz ela olhando as outras, ja meio que tinha uma nocao
+//essa  questao eu fiz ela olhando as outras, ja meio que tinha uma noção

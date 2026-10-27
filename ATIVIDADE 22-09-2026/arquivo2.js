@@ -10,3 +10,8 @@ if(verificacao==0){
 
 }
 alert(ehPar())
+
+
+
+
+//esse eu entendi o problema mais não consegui coloca na pratica 

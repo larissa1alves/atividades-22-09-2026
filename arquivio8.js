@@ -11,3 +11,4 @@ function autenticarUsuario(usuario, senha) {
 }
 
 
+//não entendi muito bem essa
